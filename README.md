@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 👋 - I'm Gilles!
+
+I'm currently working at Microsoft on Hololens and Mixed Reality experiences. I maintain a Dockerized version of [Exit Game Photon Server](https://www.photonengine.com/en-US/Server) which you can see [here](https://github.com/GillesZunino/Dockerized-Photon). Monitor Photon Server with [Azure Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) with my [Photon Counter Publisher](https://github.com/GillesZunino/Photon-Azure-CounterPublishers).
+
 
 <!--
+
 **GillesZunino/gilleszunino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+--!>
