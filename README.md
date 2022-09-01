@@ -1,4 +1,4 @@
-### Hi friends 👋 - I'm Gilles!
+### Hi friends 👋 I'm Gilles!
 
 I'm currently working at Microsoft on HoloLens and Mixed Reality experiences. I maintain a [Dockerized version of Exit Games Photon Server](https://github.com/GillesZunino/Dockerized-Photon). I make it possible to [monitor Exit Games Photon Server 4 performance counters](https://github.com/GillesZunino/Photon-Azure-CounterPublishers) with [Azure Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview). Are you using [Insomnia REST client](https://insomnia.rest/) and need to acquire Azure AD access tokens? Check out my [Insomnia Plugin for Azure AD Authentication](https://github.com/GillesZunino/insomnia-plugin-azure-ad-authentication)!
 
